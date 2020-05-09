@@ -1,11 +1,9 @@
 package stepsDefinitions;
 
-import io.cucumber.java.After;
-import io.cucumber.java.Before;
+import io.cucumber.java.*;
 import io.cucumber.java.Scenario;
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
-import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.PageFactory;
 import utils.Base;
 import utils.CaptureScreenShot;
@@ -35,8 +33,8 @@ public class Hook extends Base {
 
     @After
     public void tearDown(Scenario scenario){
+        captureScreenShot = PageFactory.initElements(base.driver, CaptureScreenShot.class);
         if(scenario.isFailed()){
-            captureScreenShot = PageFactory.initElements(driver, CaptureScreenShot.class);
             captureScreenShot.takeScreenShot(scenario.getName());
         }
         try {

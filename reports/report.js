@@ -17,7 +17,7 @@ formatter.step({
   "keyword": "Given "
 });
 formatter.match({
-  "location": "stepsDefinitions.steps.open_chorme_browser()"
+  "location": "stepsDefinitions.steps.open_chrome_browser()"
 });
 formatter.result({
   "status": "passed"
@@ -53,7 +53,7 @@ formatter.result({
   "status": "passed"
 });
 formatter.scenario({
-  "name": "Deposit into account",
+  "name": "Withdrawal from account",
   "description": "",
   "keyword": "Scenario",
   "tags": [
@@ -63,41 +63,31 @@ formatter.scenario({
   ]
 });
 formatter.step({
-  "name": "Click on deposit link",
+  "name": "Click on withdrawal link",
   "keyword": "When "
 });
 formatter.match({
-  "location": "stepsDefinitions.steps.click_on_deposit_link()"
+  "location": "stepsDefinitions.steps.clickOnWithdrawalLink()"
 });
 formatter.result({
   "status": "passed"
 });
 formatter.step({
-  "name": "Add details of amount to be submitted",
+  "name": "Add details of amount to be withdraw",
   "keyword": "Then "
 });
 formatter.match({
-  "location": "stepsDefinitions.steps.add_details_of_amount_to_be_submitted()"
+  "location": "stepsDefinitions.steps.addDetailsOfAmountToBeWithdraw()"
 });
 formatter.result({
   "status": "passed"
 });
 formatter.step({
-  "name": "Click on deposit submit button",
+  "name": "Click on withdrawal submit button",
   "keyword": "And "
 });
 formatter.match({
-  "location": "stepsDefinitions.steps.click_on_deposit_submit_button()"
-});
-formatter.result({
-  "status": "passed"
-});
-formatter.step({
-  "name": "Close the application and browser",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "stepsDefinitions.steps.close_the_application_and_browser()"
+  "location": "stepsDefinitions.steps.clickOnWithdrawalSubmitButton()"
 });
 formatter.result({
   "status": "passed"

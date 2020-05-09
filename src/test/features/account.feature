@@ -13,10 +13,16 @@ Feature: Manager login options
     	And Verify success message with "Account Generated Successfully!!!"
     	Then Close the application and browser
     
-    @execute
+    @skip
     Scenario: Deposit into account
     	When Click on deposit link
     	Then Add details of amount to be submitted
     	And Click on deposit submit button
     	Then Close the application and browser
-    	
+
+	@execute
+	Scenario: Withdrawal from account
+		When Click on withdrawal link
+		Then Add details of amount to be withdraw
+		And Click on withdrawal submit button
+		Then Close the application and browser

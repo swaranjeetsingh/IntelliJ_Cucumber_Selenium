@@ -6,12 +6,14 @@ import org.openqa.selenium.support.PageFactory;
 import pageObjects.Account;
 import pageObjects.Deposit;
 import pageObjects.LoginPage;
+import pageObjects.Withdrawal;
 import utils.Base;
 
 public class steps extends Base {
     LoginPage loginPage;
     Account account;
     Deposit deposit;
+    Withdrawal withdrawal;
 
     private Base base;
     public steps(Base base) {
@@ -113,4 +115,21 @@ public class steps extends Base {
         deposit.setDepositSubmitButton();
     }
 
+    @io.cucumber.java.en.When("Click on withdrawal link")
+    public void clickOnWithdrawalLink() {
+        withdrawal = PageFactory.initElements(base.driver, Withdrawal.class);
+        withdrawal.setWithdrawalLink();
+    }
+
+    @io.cucumber.java.en.Then("Add details of amount to be withdraw")
+    public void addDetailsOfAmountToBeWithdraw() {
+        withdrawal.setAccountNumberInputBox("78183");
+        withdrawal.setAmountInputBox("1000");
+        withdrawal.setDescriptionInputBox("To Cash");
+    }
+
+    @io.cucumber.java.en.And("Click on withdrawal submit button")
+    public void clickOnWithdrawalSubmitButton() {
+        withdrawal.setSubmitButton();
+    }
 }
