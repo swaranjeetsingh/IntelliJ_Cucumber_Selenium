@@ -10,17 +10,17 @@ formatter.background({
   "keyword": "Background"
 });
 formatter.before({
-  "status": "skipped"
+  "status": "passed"
 });
 formatter.step({
-  "name": "Open chorme browser",
+  "name": "Open chrome browser",
   "keyword": "Given "
 });
 formatter.match({
   "location": "stepsDefinitions.steps.open_chorme_browser()"
 });
 formatter.result({
-  "status": "skipped"
+  "status": "passed"
 });
 formatter.step({
   "name": "Enter valid url \"http://demo.guru99.com/V4/\" to open application",
@@ -30,7 +30,7 @@ formatter.match({
   "location": "stepsDefinitions.steps.enter_valid_url_to_open_application(java.lang.String)"
 });
 formatter.result({
-  "status": "skipped"
+  "status": "passed"
 });
 formatter.step({
   "name": "After launching application enter username \"mngr259062\" and password \"UsuhagY\"",
@@ -40,7 +40,7 @@ formatter.match({
   "location": "stepsDefinitions.steps.after_launching_application_enter_username_and_password(java.lang.String,java.lang.String)"
 });
 formatter.result({
-  "status": "skipped"
+  "status": "passed"
 });
 formatter.step({
   "name": "After that enter click on login button",
@@ -50,7 +50,7 @@ formatter.match({
   "location": "stepsDefinitions.steps.after_that_enter_click_on_login_button()"
 });
 formatter.result({
-  "status": "skipped"
+  "status": "passed"
 });
 formatter.scenario({
   "name": "Deposit into account",
@@ -70,7 +70,7 @@ formatter.match({
   "location": "stepsDefinitions.steps.click_on_deposit_link()"
 });
 formatter.result({
-  "status": "skipped"
+  "status": "passed"
 });
 formatter.step({
   "name": "Add details of amount to be submitted",
@@ -80,7 +80,7 @@ formatter.match({
   "location": "stepsDefinitions.steps.add_details_of_amount_to_be_submitted()"
 });
 formatter.result({
-  "status": "skipped"
+  "status": "passed"
 });
 formatter.step({
   "name": "Click on deposit submit button",
@@ -90,17 +90,7 @@ formatter.match({
   "location": "stepsDefinitions.steps.click_on_deposit_submit_button()"
 });
 formatter.result({
-  "status": "skipped"
-});
-formatter.step({
-  "name": "After test is complete capture screenshot",
-  "keyword": "When "
-});
-formatter.match({
-  "location": "stepsDefinitions.steps.after_test_is_complete_capture_screenshot()"
-});
-formatter.result({
-  "status": "skipped"
+  "status": "passed"
 });
 formatter.step({
   "name": "Close the application and browser",
@@ -110,6 +100,9 @@ formatter.match({
   "location": "stepsDefinitions.steps.close_the_application_and_browser()"
 });
 formatter.result({
-  "status": "skipped"
+  "status": "passed"
+});
+formatter.after({
+  "status": "passed"
 });
 });

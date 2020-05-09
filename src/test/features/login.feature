@@ -1,6 +1,6 @@
 Feature: Login test
   Background: these are back ground steps
-    Given Open chorme browser
+    Given Open chrome browser
     Then Enter valid url "http://demo.guru99.com/V4/" to open application
 
   @execute

@@ -14,9 +14,9 @@ public class CaptureScreenShot {
 		this.driver = driver;
 	}
 
-	public void takeScreenShot() {
+	public void takeScreenShot(String name) {
 		File srcFile = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
-		String destination = System.getProperty("user.dir") + "/screenshots/screenshot.png";
+		String destination = System.getProperty("user.dir") + "/screenshots/" + name + ".png";
 		File destinationFolder = new File(destination);
 		try {
 			FileUtils.copyFile(srcFile, destinationFolder);

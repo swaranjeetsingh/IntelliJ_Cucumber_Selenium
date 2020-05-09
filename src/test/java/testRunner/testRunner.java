@@ -7,7 +7,7 @@ import io.cucumber.junit.CucumberOptions;
 @RunWith(Cucumber.class)
 @CucumberOptions(features = "./src/test/features/account.feature",
 				strict = true,
-				dryRun = true,
+				dryRun = false,
 				monochrome = true,
 				glue = "stepsDefinitions",
 				plugin = {"pretty", "html:reports"},
