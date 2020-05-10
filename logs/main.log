@@ -1,0 +1,297 @@
+2020-05-09 12:51:43,667 +0530 [main] INFO  (steps.java:44) - open application using url: http://demo.guru99.com/V4/
+2020-05-09 12:51:59,197 +0530 [main] INFO  (steps.java:50) - enter login credentials
+2020-05-09 12:51:59,369 +0530 [main] INFO  (steps.java:57) - click on login button
+2020-05-09 12:51:59,694 +0530 [main] INFO  (steps.java:110) - click on deposit link
+2020-05-09 12:52:31,172 +0530 [main] INFO  (steps.java:44) - open application using url: http://demo.guru99.com/V4/
+2020-05-09 12:52:51,708 +0530 [main] INFO  (steps.java:50) - enter login credentials
+2020-05-09 12:52:51,872 +0530 [main] INFO  (steps.java:57) - click on login button
+2020-05-09 12:52:54,077 +0530 [main] INFO  (steps.java:110) - click on deposit link
+2020-05-09 12:52:55,441 +0530 [main] INFO  (steps.java:117) - enter account number
+2020-05-09 12:52:55,516 +0530 [main] INFO  (steps.java:119) - add amount to be deposited
+2020-05-09 12:52:55,593 +0530 [main] INFO  (steps.java:121) - added description
+2020-05-09 12:52:55,662 +0530 [main] INFO  (steps.java:127) - click on add deposit button
+2020-05-09 12:53:00,938 +0530 [main] INFO  (steps.java:103) - capture screenshot
+2020-05-09 12:53:01,089 +0530 [main] INFO  (steps.java:69) - close browser
+2020-05-09 15:22:34,930 +0530 [main] INFO  (steps.java:44) - open application using url: http://demo.guru99.com/V4/
+2020-05-09 15:22:43,351 +0530 [main] INFO  (steps.java:50) - enter login credentials
+2020-05-09 15:22:43,516 +0530 [main] INFO  (steps.java:57) - click on login button
+2020-05-09 15:22:45,725 +0530 [main] INFO  (steps.java:110) - click on deposit link
+2020-05-09 15:22:47,184 +0530 [main] INFO  (steps.java:117) - enter account number
+2020-05-09 15:22:47,276 +0530 [main] INFO  (steps.java:119) - add amount to be deposited
+2020-05-09 15:22:47,328 +0530 [main] INFO  (steps.java:121) - added description
+2020-05-09 15:22:47,392 +0530 [main] INFO  (steps.java:127) - click on add deposit button
+2020-05-09 15:22:48,848 +0530 [main] INFO  (steps.java:103) - capture screenshot
+2020-05-09 15:22:48,991 +0530 [main] INFO  (steps.java:69) - close browser
+2020-05-09 15:29:25,873 +0530 [main] INFO  (steps.java:53) - open application using url: http://demo.guru99.com/V4/
+2020-05-09 15:29:44,033 +0530 [main] INFO  (steps.java:59) - enter login credentials
+2020-05-09 15:29:44,175 +0530 [main] INFO  (steps.java:66) - click on login button
+2020-05-09 15:29:46,482 +0530 [main] INFO  (steps.java:112) - click on deposit link
+2020-05-09 15:29:49,715 +0530 [main] INFO  (steps.java:119) - enter account number
+2020-05-09 15:29:49,777 +0530 [main] INFO  (steps.java:121) - add amount to be deposited
+2020-05-09 15:29:49,831 +0530 [main] INFO  (steps.java:123) - added description
+2020-05-09 15:29:49,887 +0530 [main] INFO  (steps.java:129) - click on add deposit button
+2020-05-09 15:29:52,050 +0530 [main] INFO  (steps.java:78) - close browser
+2020-05-09 15:33:03,380 +0530 [main] INFO  (steps.java:53) - open application using url: http://demo.guru99.com/V4/
+2020-05-09 15:33:16,513 +0530 [main] INFO  (steps.java:59) - enter login credentials
+2020-05-09 15:33:16,649 +0530 [main] INFO  (steps.java:66) - click on login button
+2020-05-09 15:33:18,133 +0530 [main] INFO  (steps.java:112) - click on deposit link
+2020-05-09 15:34:24,175 +0530 [main] INFO  (steps.java:54) - open application using url: http://demo.guru99.com/V4/
+2020-05-09 15:34:31,089 +0530 [main] INFO  (steps.java:60) - enter login credentials
+2020-05-09 15:34:31,261 +0530 [main] INFO  (steps.java:67) - click on login button
+2020-05-09 15:34:36,522 +0530 [main] INFO  (steps.java:113) - click on deposit link
+2020-05-09 15:38:43,164 +0530 [main] INFO  (steps.java:47) - open application using url: http://demo.guru99.com/V4/
+2020-05-09 15:39:01,960 +0530 [main] INFO  (steps.java:53) - enter login credentials
+2020-05-09 15:39:02,102 +0530 [main] INFO  (steps.java:60) - click on login button
+2020-05-09 15:39:02,560 +0530 [main] INFO  (steps.java:106) - click on deposit link
+2020-05-09 15:40:59,280 +0530 [main] INFO  (steps.java:47) - open application using url: http://demo.guru99.com/V4/
+2020-05-09 15:41:07,179 +0530 [main] INFO  (steps.java:53) - enter login credentials
+2020-05-09 15:41:07,358 +0530 [main] INFO  (steps.java:60) - click on login button
+2020-05-09 15:41:07,843 +0530 [main] INFO  (steps.java:106) - click on deposit link
+2020-05-09 15:42:59,678 +0530 [main] INFO  (steps.java:54) - open application using url: http://demo.guru99.com/V4/
+2020-05-09 15:43:01,343 +0530 [main] INFO  (steps.java:60) - enter login credentials
+2020-05-09 15:43:28,655 +0530 [main] INFO  (steps.java:55) - open application using url: http://demo.guru99.com/V4/
+2020-05-09 15:43:42,071 +0530 [main] INFO  (steps.java:61) - enter login credentials
+2020-05-09 15:43:42,219 +0530 [main] INFO  (steps.java:68) - click on login button
+2020-05-09 15:43:42,693 +0530 [main] INFO  (steps.java:114) - click on deposit link
+2020-05-09 15:44:52,799 +0530 [main] INFO  (steps.java:54) - open application using url: http://demo.guru99.com/V4/
+2020-05-09 15:45:25,976 +0530 [main] INFO  (steps.java:60) - enter login credentials
+2020-05-09 15:45:26,112 +0530 [main] INFO  (steps.java:67) - click on login button
+2020-05-09 15:45:26,851 +0530 [main] INFO  (steps.java:113) - click on deposit link
+2020-05-09 15:47:56,822 +0530 [main] INFO  (steps.java:54) - open application using url: http://demo.guru99.com/V4/
+2020-05-09 15:48:25,113 +0530 [main] INFO  (steps.java:60) - enter login credentials
+2020-05-09 15:48:25,322 +0530 [main] INFO  (steps.java:67) - click on login button
+2020-05-09 15:48:25,873 +0530 [main] INFO  (steps.java:120) - click on deposit link
+2020-05-09 16:18:24,853 +0530 [main] INFO  (steps.java:43) - open application using url: http://demo.guru99.com/V4/
+2020-05-09 16:18:36,342 +0530 [main] INFO  (steps.java:49) - enter login credentials
+2020-05-09 16:18:36,480 +0530 [main] INFO  (steps.java:56) - click on login button
+2020-05-09 16:18:37,975 +0530 [main] INFO  (steps.java:109) - click on deposit link
+2020-05-09 16:18:40,132 +0530 [main] INFO  (steps.java:116) - enter account number
+2020-05-09 16:18:40,199 +0530 [main] INFO  (steps.java:118) - add amount to be deposited
+2020-05-09 16:18:40,253 +0530 [main] INFO  (steps.java:120) - added description
+2020-05-09 16:18:40,322 +0530 [main] INFO  (steps.java:126) - click on add deposit button
+2020-05-09 16:18:42,447 +0530 [main] INFO  (steps.java:68) - close browser
+2020-05-09 16:20:28,331 +0530 [main] INFO  (steps.java:43) - open application using url: http://demo.guru99.com/V4/
+2020-05-09 16:20:37,146 +0530 [main] INFO  (steps.java:49) - enter login credentials
+2020-05-09 16:20:37,313 +0530 [main] INFO  (steps.java:56) - click on login button
+2020-05-09 16:20:38,792 +0530 [main] INFO  (steps.java:109) - click on deposit link
+2020-05-09 16:20:40,140 +0530 [main] INFO  (steps.java:116) - enter account number
+2020-05-09 16:20:40,209 +0530 [main] INFO  (steps.java:118) - add amount to be deposited
+2020-05-09 16:20:40,265 +0530 [main] INFO  (steps.java:120) - added description
+2020-05-09 16:20:40,322 +0530 [main] INFO  (steps.java:126) - click on add deposit button
+2020-05-09 16:20:42,899 +0530 [main] INFO  (steps.java:68) - close browser
+2020-05-09 21:10:53,847 +0530 [main] INFO  (steps.java:31) - open application using url: http://demo.guru99.com/V4/
+2020-05-09 21:11:30,261 +0530 [main] INFO  (steps.java:37) - enter login credentials
+2020-05-09 21:11:30,431 +0530 [main] INFO  (steps.java:44) - click on login button
+2020-05-09 21:14:53,527 +0530 [main] INFO  (steps.java:31) - open application using url: http://demo.guru99.com/V4/
+2020-05-09 21:15:05,680 +0530 [main] INFO  (steps.java:37) - enter login credentials
+2020-05-09 21:15:05,828 +0530 [main] INFO  (steps.java:44) - click on login button
+2020-05-09 21:15:52,938 +0530 [main] INFO  (steps.java:31) - open application using url: http://demo.guru99.com/V4/
+2020-05-09 21:16:01,585 +0530 [main] INFO  (steps.java:37) - enter login credentials
+2020-05-09 21:16:01,731 +0530 [main] INFO  (steps.java:44) - click on login button
+2020-05-09 21:16:19,998 +0530 [main] INFO  (steps.java:31) - open application using url: http://demo.guru99.com/V4/
+2020-05-09 21:16:27,953 +0530 [main] INFO  (steps.java:37) - enter login credentials
+2020-05-09 21:16:28,091 +0530 [main] INFO  (steps.java:44) - click on login button
+2020-05-09 21:16:33,948 +0530 [main] INFO  (steps.java:56) - close browser
+2020-05-09 21:18:01,350 +0530 [main] INFO  (steps.java:31) - open application using url: http://demo.guru99.com/V4/
+2020-05-09 21:18:30,722 +0530 [main] INFO  (steps.java:37) - enter login credentials
+2020-05-09 21:18:30,858 +0530 [main] INFO  (steps.java:44) - click on login button
+2020-05-09 21:18:37,187 +0530 [main] INFO  (steps.java:56) - close browser
+2020-05-09 21:19:04,272 +0530 [main] INFO  (steps.java:31) - open application using url: http://demo.guru99.com/V4/
+2020-05-09 21:19:14,523 +0530 [main] INFO  (steps.java:37) - enter login credentials
+2020-05-09 21:19:14,672 +0530 [main] INFO  (steps.java:44) - click on login button
+2020-05-09 21:19:29,201 +0530 [main] INFO  (steps.java:56) - close browser
+2020-05-09 21:20:36,798 +0530 [main] INFO  (steps.java:31) - open application using url: http://demo.guru99.com/V4/
+2020-05-09 21:20:50,621 +0530 [main] INFO  (steps.java:37) - enter login credentials
+2020-05-09 21:20:50,826 +0530 [main] INFO  (steps.java:44) - click on login button
+2020-05-09 21:20:56,720 +0530 [main] INFO  (steps.java:56) - close browser
+2020-05-09 21:21:25,499 +0530 [main] INFO  (steps.java:31) - open application using url: http://demo.guru99.com/V4/
+2020-05-09 21:21:33,913 +0530 [main] INFO  (steps.java:37) - enter login credentials
+2020-05-09 21:21:34,068 +0530 [main] INFO  (steps.java:44) - click on login button
+2020-05-09 21:21:43,575 +0530 [main] INFO  (steps.java:56) - close browser
+2020-05-09 21:23:47,416 +0530 [main] INFO  (steps.java:31) - open application using url: http://demo.guru99.com/V4/
+2020-05-09 21:24:01,914 +0530 [main] INFO  (steps.java:37) - enter login credentials
+2020-05-09 21:24:02,103 +0530 [main] INFO  (steps.java:44) - click on login button
+2020-05-09 22:21:12,032 +0530 [main] INFO  (steps.java:31) - open application using url: http://demo.guru99.com/V4/
+2020-05-09 22:21:29,639 +0530 [main] INFO  (steps.java:37) - enter login credentials
+2020-05-09 22:21:29,816 +0530 [main] INFO  (steps.java:44) - click on login button
+2020-05-09 22:21:36,256 +0530 [main] INFO  (steps.java:56) - close browser
+2020-05-09 22:47:29,011 +0530 [main] INFO  (steps.java:32) - open application using url: http://demo.guru99.com/V4/
+2020-05-09 22:47:33,360 +0530 [main] INFO  (steps.java:38) - enter login credentials
+2020-05-09 22:47:33,570 +0530 [main] INFO  (steps.java:45) - click on login button
+2020-05-09 22:49:41,339 +0530 [main] INFO  (steps.java:32) - open application using url: http://demo.guru99.com/V4/
+2020-05-09 22:49:48,229 +0530 [main] INFO  (steps.java:38) - enter login credentials
+2020-05-09 22:49:48,368 +0530 [main] INFO  (steps.java:45) - click on login button
+2020-05-09 22:52:49,468 +0530 [main] INFO  (steps.java:32) - open application using url: http://demo.guru99.com/V4/
+2020-05-09 22:53:03,829 +0530 [main] INFO  (steps.java:38) - enter login credentials
+2020-05-09 22:53:04,012 +0530 [main] INFO  (steps.java:45) - click on login button
+2020-05-09 22:53:10,351 +0530 [main] INFO  (steps.java:57) - close browser
+2020-05-09 22:55:58,590 +0530 [main] INFO  (steps.java:32) - open application using url: http://demo.guru99.com/V4/
+2020-05-09 22:56:04,027 +0530 [main] INFO  (steps.java:38) - enter login credentials
+2020-05-09 22:56:04,315 +0530 [main] INFO  (steps.java:45) - click on login button
+2020-05-09 22:56:09,183 +0530 [main] INFO  (steps.java:57) - close browser
+2020-05-10 07:36:21,820 +0530 [main] INFO  (steps.java:32) - open application using url: http://demo.guru99.com/V4/
+2020-05-10 07:36:27,823 +0530 [main] INFO  (steps.java:38) - enter login credentials
+2020-05-10 07:36:28,031 +0530 [main] INFO  (steps.java:45) - click on login button
+2020-05-10 07:36:36,894 +0530 [main] INFO  (steps.java:57) - close browser
+2020-05-10 07:40:52,665 +0530 [main] INFO  (steps.java:32) - open application using url: http://demo.guru99.com/V4/
+2020-05-10 07:40:57,617 +0530 [main] INFO  (steps.java:38) - enter login credentials
+2020-05-10 07:40:57,768 +0530 [main] INFO  (steps.java:45) - click on login button
+2020-05-10 07:42:39,295 +0530 [main] INFO  (steps.java:32) - open application using url: http://demo.guru99.com/V4/
+2020-05-10 07:42:46,446 +0530 [main] INFO  (steps.java:38) - enter login credentials
+2020-05-10 07:42:46,609 +0530 [main] INFO  (steps.java:45) - click on login button
+2020-05-10 07:42:52,784 +0530 [main] INFO  (steps.java:57) - close browser
+2020-05-10 07:43:30,098 +0530 [main] INFO  (steps.java:32) - open application using url: http://demo.guru99.com/V4/
+2020-05-10 07:43:35,495 +0530 [main] INFO  (steps.java:38) - enter login credentials
+2020-05-10 07:43:35,654 +0530 [main] INFO  (steps.java:45) - click on login button
+2020-05-10 07:43:42,925 +0530 [main] INFO  (steps.java:57) - close browser
+2020-05-10 08:00:20,170 +0530 [main] INFO  (steps.java:32) - open application using url: http://demo.guru99.com/V4/
+2020-05-10 08:00:25,413 +0530 [main] INFO  (steps.java:38) - enter login credentials
+2020-05-10 08:00:25,601 +0530 [main] INFO  (steps.java:45) - click on login button
+2020-05-10 08:00:35,490 +0530 [main] INFO  (steps.java:57) - close browser
+2020-05-10 08:04:05,892 +0530 [main] INFO  (steps.java:32) - open application using url: http://demo.guru99.com/V4/
+2020-05-10 08:04:10,913 +0530 [main] INFO  (steps.java:38) - enter login credentials
+2020-05-10 08:04:11,075 +0530 [main] INFO  (steps.java:45) - click on login button
+2020-05-10 08:04:21,451 +0530 [main] INFO  (steps.java:57) - close browser
+2020-05-10 08:08:25,079 +0530 [main] INFO  (steps.java:32) - open application using url: http://demo.guru99.com/V4/
+2020-05-10 08:08:40,525 +0530 [main] INFO  (steps.java:38) - enter login credentials
+2020-05-10 08:08:40,676 +0530 [main] INFO  (steps.java:45) - click on login button
+2020-05-10 08:08:52,006 +0530 [main] INFO  (steps.java:57) - close browser
+2020-05-10 08:15:06,361 +0530 [main] INFO  (steps.java:32) - open application using url: http://demo.guru99.com/V4/
+2020-05-10 08:15:11,287 +0530 [main] INFO  (steps.java:38) - enter login credentials
+2020-05-10 08:15:11,536 +0530 [main] INFO  (steps.java:45) - click on login button
+2020-05-10 08:15:27,182 +0530 [main] INFO  (steps.java:57) - close browser
+2020-05-10 08:16:49,805 +0530 [main] INFO  (steps.java:32) - open application using url: http://demo.guru99.com/V4/
+2020-05-10 08:16:54,932 +0530 [main] INFO  (steps.java:38) - enter login credentials
+2020-05-10 08:16:55,106 +0530 [main] INFO  (steps.java:45) - click on login button
+2020-05-10 08:17:05,480 +0530 [main] INFO  (steps.java:57) - close browser
+2020-05-10 09:12:10,658 +0530 [main] INFO  (steps.java:32) - open application using url: http://demo.guru99.com/V4/
+2020-05-10 09:12:18,526 +0530 [main] INFO  (steps.java:38) - enter login credentials
+2020-05-10 09:12:18,699 +0530 [main] INFO  (steps.java:45) - click on login button
+2020-05-10 09:12:25,144 +0530 [main] INFO  (steps.java:57) - close browser
+2020-05-10 10:57:42,525 +0530 [main] INFO  (steps.java:32) - open application using url: http://demo.guru99.com/V4/
+2020-05-10 10:57:48,461 +0530 [main] INFO  (steps.java:38) - enter login credentials
+2020-05-10 10:57:48,645 +0530 [main] INFO  (steps.java:45) - click on login button
+2020-05-10 10:57:57,897 +0530 [main] INFO  (steps.java:57) - close browser
+2020-05-10 11:27:44,098 +0530 [main] INFO  (steps.java:32) - open application using url: http://demo.guru99.com/V4/
+2020-05-10 11:27:49,556 +0530 [main] INFO  (steps.java:38) - enter login credentials
+2020-05-10 11:27:49,807 +0530 [main] INFO  (steps.java:45) - click on login button
+2020-05-10 11:27:59,057 +0530 [main] INFO  (steps.java:57) - close browser
+2020-05-10 12:04:56,185 +0530 [main] INFO  (steps.java:32) - open application using url: http://demo.guru99.com/V4/
+2020-05-10 12:05:00,770 +0530 [main] INFO  (steps.java:38) - enter login credentials
+2020-05-10 12:05:00,979 +0530 [main] INFO  (steps.java:45) - click on login button
+2020-05-10 12:05:09,029 +0530 [main] INFO  (steps.java:57) - close browser
+2020-05-10 12:08:27,893 +0530 [main] INFO  (steps.java:32) - open application using url: http://demo.guru99.com/V4/
+2020-05-10 12:08:32,782 +0530 [main] INFO  (steps.java:38) - enter login credentials
+2020-05-10 12:08:32,947 +0530 [main] INFO  (steps.java:45) - click on login button
+2020-05-10 12:08:35,329 +0530 [main] INFO  (steps.java:98) - click on deposit link
+2020-05-10 12:08:37,924 +0530 [main] INFO  (steps.java:105) - enter account number
+2020-05-10 12:08:38,023 +0530 [main] INFO  (steps.java:107) - add amount to be deposited
+2020-05-10 12:08:38,091 +0530 [main] INFO  (steps.java:109) - added description
+2020-05-10 12:08:38,159 +0530 [main] INFO  (steps.java:115) - click on add deposit button
+2020-05-10 12:08:40,146 +0530 [main] INFO  (steps.java:57) - close browser
+2020-05-10 12:11:18,924 +0530 [main] INFO  (steps.java:32) - open application using url: http://demo.guru99.com/V4/
+2020-05-10 12:11:24,070 +0530 [main] INFO  (steps.java:38) - enter login credentials
+2020-05-10 12:11:24,233 +0530 [main] INFO  (steps.java:45) - click on login button
+2020-05-10 12:11:25,565 +0530 [main] INFO  (steps.java:98) - click on deposit link
+2020-05-10 13:04:38,284 +0530 [main] INFO  (steps.java:47) - click on login button
+2020-05-10 13:04:41,784 +0530 [main] INFO  (steps.java:100) - click on deposit link
+2020-05-10 13:04:44,259 +0530 [main] INFO  (steps.java:107) - enter account number
+2020-05-10 13:04:44,337 +0530 [main] INFO  (steps.java:109) - add amount to be deposited
+2020-05-10 13:04:44,410 +0530 [main] INFO  (steps.java:111) - added description
+2020-05-10 13:04:44,474 +0530 [main] INFO  (steps.java:117) - click on add deposit button
+2020-05-10 13:04:47,090 +0530 [main] INFO  (steps.java:59) - close browser
+2020-05-10 13:04:51,132 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "v3html/v3-html-index.ftl"("en", UTF-8, parsed); will try to load it.
+2020-05-10 13:04:51,134 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("v3html/v3-html-index_en.ftl"): Not found
+2020-05-10 13:04:51,137 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("v3html/v3-html-index.ftl"): Found
+2020-05-10 13:04:51,139 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "v3html/v3-html-index.ftl"("en", UTF-8, parsed) from "jar:file:/Users/dhaliwal_mac/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/v3-html-index.ftl"
+2020-05-10 13:04:51,486 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "v3html/v3-html-head.ftl"("en", UTF-8, parsed); will try to load it.
+2020-05-10 13:04:51,486 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("v3html/v3-html-head_en.ftl"): Not found
+2020-05-10 13:04:51,487 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("v3html/v3-html-head.ftl"): Found
+2020-05-10 13:04:51,487 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "v3html/v3-html-head.ftl"("en", UTF-8, parsed) from "jar:file:/Users/dhaliwal_mac/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/v3-html-head.ftl"
+2020-05-10 13:04:51,494 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "v3html/v3-html-nav.ftl"("en", UTF-8, parsed); will try to load it.
+2020-05-10 13:04:51,496 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("v3html/v3-html-nav_en.ftl"): Not found
+2020-05-10 13:04:51,497 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("v3html/v3-html-nav.ftl"): Found
+2020-05-10 13:04:51,497 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "v3html/v3-html-nav.ftl"("en", UTF-8, parsed) from "jar:file:/Users/dhaliwal_mac/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/v3-html-nav.ftl"
+2020-05-10 13:04:51,507 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "v3html/test-view/v3-html-test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-05-10 13:04:51,508 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view_en.ftl"): Not found
+2020-05-10 13:04:51,509 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view.ftl"): Found
+2020-05-10 13:04:51,509 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "v3html/test-view/v3-html-test-view.ftl"("en", UTF-8, parsed) from "jar:file:/Users/dhaliwal_mac/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view.ftl"
+2020-05-10 13:04:51,524 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "v3html/test-view/v3-html-test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2020-05-10 13:04:51,525 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view-charts_en.ftl"): Not found
+2020-05-10 13:04:51,526 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view-charts.ftl"): Found
+2020-05-10 13:04:51,527 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "v3html/test-view/v3-html-test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/Users/dhaliwal_mac/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view-charts.ftl"
+2020-05-10 13:04:51,542 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed); will try to load it.
+2020-05-10 13:04:51,543 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-standard_en.ftl"): Not found
+2020-05-10 13:04:51,544 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-standard.ftl"): Found
+2020-05-10 13:04:51,544 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) from "jar:file:/Users/dhaliwal_mac/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-standard.ftl"
+2020-05-10 13:04:51,566 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "v3html/category-view/v3-html-category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-05-10 13:04:51,567 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("v3html/category-view/v3-html-category-view_en.ftl"): Not found
+2020-05-10 13:04:51,568 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("v3html/category-view/v3-html-category-view.ftl"): Found
+2020-05-10 13:04:51,568 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "v3html/category-view/v3-html-category-view.ftl"("en", UTF-8, parsed) from "jar:file:/Users/dhaliwal_mac/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/category-view/v3-html-category-view.ftl"
+2020-05-10 13:04:51,573 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "v3html/exception-view/v3-html-exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-05-10 13:04:51,574 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("v3html/exception-view/v3-html-exception-view_en.ftl"): Not found
+2020-05-10 13:04:51,575 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("v3html/exception-view/v3-html-exception-view.ftl"): Found
+2020-05-10 13:04:51,576 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "v3html/exception-view/v3-html-exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/Users/dhaliwal_mac/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/exception-view/v3-html-exception-view.ftl"
+2020-05-10 13:04:51,581 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "v3html/author-view/v3-html-author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-05-10 13:04:51,582 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("v3html/author-view/v3-html-author-view_en.ftl"): Not found
+2020-05-10 13:04:51,583 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("v3html/author-view/v3-html-author-view.ftl"): Found
+2020-05-10 13:04:51,584 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "v3html/author-view/v3-html-author-view.ftl"("en", UTF-8, parsed) from "jar:file:/Users/dhaliwal_mac/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/author-view/v3-html-author-view.ftl"
+2020-05-10 13:04:51,588 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "v3html/dashboard-view/v3-html-dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-05-10 13:04:51,589 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("v3html/dashboard-view/v3-html-dashboard-view_en.ftl"): Not found
+2020-05-10 13:04:51,590 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("v3html/dashboard-view/v3-html-dashboard-view.ftl"): Found
+2020-05-10 13:04:51,591 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "v3html/dashboard-view/v3-html-dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/Users/dhaliwal_mac/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/dashboard-view/v3-html-dashboard-view.ftl"
+2020-05-10 13:04:51,597 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-05-10 13:04:51,599 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view_en.ftl"): Not found
+2020-05-10 13:04:51,600 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view.ftl"): Found
+2020-05-10 13:04:51,600 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/Users/dhaliwal_mac/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/logs-view/v3-html-testrunner-logs-view.ftl"
+2020-05-10 13:08:23,610 +0530 [main] INFO  (steps.java:47) - click on login button
+2020-05-10 13:08:26,766 +0530 [main] INFO  (steps.java:100) - click on deposit link
+2020-05-10 13:08:30,067 +0530 [main] INFO  (steps.java:107) - enter account number
+2020-05-10 13:08:30,141 +0530 [main] INFO  (steps.java:109) - add amount to be deposited
+2020-05-10 13:08:30,205 +0530 [main] INFO  (steps.java:111) - added description
+2020-05-10 13:08:30,317 +0530 [main] INFO  (steps.java:117) - click on add deposit button
+2020-05-10 13:08:43,532 +0530 [main] INFO  (steps.java:59) - close browser
+2020-05-10 13:08:46,517 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "v3html/v3-html-index.ftl"("en", UTF-8, parsed); will try to load it.
+2020-05-10 13:08:46,519 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("v3html/v3-html-index_en.ftl"): Not found
+2020-05-10 13:08:46,523 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("v3html/v3-html-index.ftl"): Found
+2020-05-10 13:08:46,525 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "v3html/v3-html-index.ftl"("en", UTF-8, parsed) from "jar:file:/Users/dhaliwal_mac/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/v3-html-index.ftl"
+2020-05-10 13:08:47,020 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "v3html/v3-html-head.ftl"("en", UTF-8, parsed); will try to load it.
+2020-05-10 13:08:47,021 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("v3html/v3-html-head_en.ftl"): Not found
+2020-05-10 13:08:47,023 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("v3html/v3-html-head.ftl"): Found
+2020-05-10 13:08:47,023 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "v3html/v3-html-head.ftl"("en", UTF-8, parsed) from "jar:file:/Users/dhaliwal_mac/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/v3-html-head.ftl"
+2020-05-10 13:08:47,041 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "v3html/v3-html-nav.ftl"("en", UTF-8, parsed); will try to load it.
+2020-05-10 13:08:47,049 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("v3html/v3-html-nav_en.ftl"): Not found
+2020-05-10 13:08:47,060 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("v3html/v3-html-nav.ftl"): Found
+2020-05-10 13:08:47,060 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "v3html/v3-html-nav.ftl"("en", UTF-8, parsed) from "jar:file:/Users/dhaliwal_mac/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/v3-html-nav.ftl"
+2020-05-10 13:08:47,126 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "v3html/test-view/v3-html-test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-05-10 13:08:47,127 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view_en.ftl"): Not found
+2020-05-10 13:08:47,128 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view.ftl"): Found
+2020-05-10 13:08:47,129 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "v3html/test-view/v3-html-test-view.ftl"("en", UTF-8, parsed) from "jar:file:/Users/dhaliwal_mac/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view.ftl"
+2020-05-10 13:08:47,228 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "v3html/test-view/v3-html-test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2020-05-10 13:08:47,229 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view-charts_en.ftl"): Not found
+2020-05-10 13:08:47,230 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view-charts.ftl"): Found
+2020-05-10 13:08:47,231 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "v3html/test-view/v3-html-test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/Users/dhaliwal_mac/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view-charts.ftl"
+2020-05-10 13:08:47,250 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed); will try to load it.
+2020-05-10 13:08:47,251 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-standard_en.ftl"): Not found
+2020-05-10 13:08:47,252 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-standard.ftl"): Found
+2020-05-10 13:08:47,254 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) from "jar:file:/Users/dhaliwal_mac/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-standard.ftl"
+2020-05-10 13:08:47,279 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "v3html/category-view/v3-html-category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-05-10 13:08:47,280 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("v3html/category-view/v3-html-category-view_en.ftl"): Not found
+2020-05-10 13:08:47,281 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("v3html/category-view/v3-html-category-view.ftl"): Found
+2020-05-10 13:08:47,282 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "v3html/category-view/v3-html-category-view.ftl"("en", UTF-8, parsed) from "jar:file:/Users/dhaliwal_mac/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/category-view/v3-html-category-view.ftl"
+2020-05-10 13:08:47,288 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "v3html/exception-view/v3-html-exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-05-10 13:08:47,289 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("v3html/exception-view/v3-html-exception-view_en.ftl"): Not found
+2020-05-10 13:08:47,290 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("v3html/exception-view/v3-html-exception-view.ftl"): Found
+2020-05-10 13:08:47,290 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "v3html/exception-view/v3-html-exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/Users/dhaliwal_mac/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/exception-view/v3-html-exception-view.ftl"
+2020-05-10 13:08:47,295 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "v3html/author-view/v3-html-author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-05-10 13:08:47,296 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("v3html/author-view/v3-html-author-view_en.ftl"): Not found
+2020-05-10 13:08:47,297 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("v3html/author-view/v3-html-author-view.ftl"): Found
+2020-05-10 13:08:47,297 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "v3html/author-view/v3-html-author-view.ftl"("en", UTF-8, parsed) from "jar:file:/Users/dhaliwal_mac/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/author-view/v3-html-author-view.ftl"
+2020-05-10 13:08:47,302 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "v3html/dashboard-view/v3-html-dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-05-10 13:08:47,303 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("v3html/dashboard-view/v3-html-dashboard-view_en.ftl"): Not found
+2020-05-10 13:08:47,303 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("v3html/dashboard-view/v3-html-dashboard-view.ftl"): Found
+2020-05-10 13:08:47,304 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "v3html/dashboard-view/v3-html-dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/Users/dhaliwal_mac/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/dashboard-view/v3-html-dashboard-view.ftl"
+2020-05-10 13:08:47,309 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-05-10 13:08:47,310 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view_en.ftl"): Not found
+2020-05-10 13:08:47,311 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view.ftl"): Found
+2020-05-10 13:08:47,311 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/Users/dhaliwal_mac/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/logs-view/v3-html-testrunner-logs-view.ftl"
