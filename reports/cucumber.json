@@ -1,0 +1,189 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 2,
+        "name": "login steps",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 723159547,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "Open chrome browser",
+            "match": {
+              "location": "steps.open_chrome_browser()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 4866828242,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "Enter valid url \"http://demo.guru99.com/V4/\" to open application",
+            "match": {
+              "arguments": [
+                {
+                  "val": "http://demo.guru99.com/V4/",
+                  "offset": 17
+                }
+              ],
+              "location": "steps.enter_valid_url_to_open_application(String)"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 170880005,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "After launching application enter username \"mngr259062\" and password \"UsuhagY\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "mngr259062",
+                  "offset": 44
+                },
+                {
+                  "val": "UsuhagY",
+                  "offset": 70
+                }
+              ],
+              "location": "steps.after_launching_application_enter_username_and_password(String,String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 3007473306,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "After that enter click on login button",
+            "match": {
+              "location": "steps.after_that_enter_click_on_login_button()"
+            },
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 5353523400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hook.setup(Scenario)"
+            }
+          }
+        ],
+        "line": 9,
+        "name": "Add new account",
+        "description": "",
+        "id": "manager-login-options;add-new-account",
+        "after": [
+          {
+            "result": {
+              "duration": 253009,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hook.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1643017746,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "Click on new account link",
+            "match": {
+              "location": "steps.click_on_new_account_link()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 218207610,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "fill new account form",
+            "match": {
+              "location": "steps.fill_new_account_form()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 2919612950,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "Click on submit button",
+            "match": {
+              "location": "steps.click_on_submit_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 19031290,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "Verify success message with \"Account Generated Successfully!!!\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Account Generated Successfully!!!",
+                  "offset": 29
+                }
+              ],
+              "location": "steps.verify_success_message_with(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1793476947,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "Close the application and browser",
+            "match": {
+              "location": "steps.close_the_application_and_browser()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 8,
+            "name": "@execute"
+          }
+        ]
+      }
+    ],
+    "name": "Manager login options",
+    "description": "",
+    "id": "manager-login-options",
+    "keyword": "Feature",
+    "uri": "./src/test/features/account.feature"
+  }
+]
