@@ -18,49 +18,55 @@
                     <target>1.8</target>
                 </configuration>
             </plugin>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-surefire-plugin</artifactId>
+                <version>3.0.0-M4</version>
+                <configuration>
+                    <suiteXmlFiles>
+                        <suiteXmlFile>testng.xml</suiteXmlFile>
+                    </suiteXmlFiles>
+                </configuration>
+            </plugin>
         </plugins>
     </build>
 
     <dependencies>
-        <!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-core -->
+        <!-- https://mvnrepository.com/artifact/info.cukes/cucumber-core -->
         <dependency>
-            <groupId>io.cucumber</groupId>
+            <groupId>info.cukes</groupId>
             <artifactId>cucumber-core</artifactId>
-            <version>5.5.0</version>
+            <version>1.2.5</version>
+            <type>pom</type>
         </dependency>
-        <!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-java -->
-<!--        <dependency>-->
-<!--            <groupId>io.cucumber</groupId>-->
-<!--            <artifactId>cucumber-java</artifactId>-->
-<!--            <version>5.5.0</version>-->
-<!--        </dependency>-->
-        <!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-java8 -->
+        <!-- https://mvnrepository.com/artifact/info.cukes/cucumber-java8 -->
         <dependency>
-            <groupId>io.cucumber</groupId>
+            <groupId>info.cukes</groupId>
             <artifactId>cucumber-java8</artifactId>
-            <version>5.7.0</version>
+            <version>1.2.5</version>
         </dependency>
-
-        <!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-junit -->
+        <!-- https://mvnrepository.com/artifact/info.cukes/cucumber-junit -->
         <dependency>
-            <groupId>io.cucumber</groupId>
+            <groupId>info.cukes</groupId>
             <artifactId>cucumber-junit</artifactId>
-            <version>5.5.0</version>
+            <version>1.2.5</version>
             <scope>test</scope>
         </dependency>
-        <!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-jvm-deps -->
+        <!-- https://mvnrepository.com/artifact/info.cukes/cucumber-jvm-deps -->
         <dependency>
-            <groupId>io.cucumber</groupId>
+            <groupId>info.cukes</groupId>
             <artifactId>cucumber-jvm-deps</artifactId>
-            <version>1.0.6</version>
+            <version>1.0.5</version>
             <scope>provided</scope>
         </dependency>
-        <!-- https://mvnrepository.com/artifact/io.cucumber/gherkin -->
+        <!-- https://mvnrepository.com/artifact/info.cukes/gherkin -->
         <dependency>
-            <groupId>io.cucumber</groupId>
+            <groupId>info.cukes</groupId>
             <artifactId>gherkin</artifactId>
-            <version>13.0.0</version>
+            <version>2.12.2</version>
+            <scope>provided</scope>
         </dependency>
+
         <!-- https://mvnrepository.com/artifact/junit/junit -->
         <dependency>
             <groupId>junit</groupId>
@@ -88,22 +94,23 @@
             <version>2.1.1</version>
             <scope>test</scope>
         </dependency>
-        <!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-picocontainer -->
+        <!-- https://mvnrepository.com/artifact/info.cukes/cucumber-picocontainer -->
         <dependency>
-            <groupId>io.cucumber</groupId>
+            <groupId>info.cukes</groupId>
             <artifactId>cucumber-picocontainer</artifactId>
-            <version>5.5.0</version>
+            <version>1.2.5</version>
             <scope>test</scope>
         </dependency>
-        <!--    &lt;!&ndash; https://mvnrepository.com/artifact/com.sun/tools &ndash;&gt;-->
-        <!--    <dependency>-->
-        <!--        <groupId>com.sun</groupId>-->
-        <!--        <artifactId>tools</artifactId>-->
-        <!--        <version>1.8</version>-->
-        <!--        <scope>system</scope>-->
-        <!--        <systemPath>/Library/Java/JavaVirtualMachines/jdk1.8.0_241.jdk/Contents/Home/lib/tools.jar-->
-        <!--        </systemPath>-->
-        <!--    </dependency>-->
+
+            <!-- https://mvnrepository.com/artifact/com.sun/tools -->
+            <dependency>
+                <groupId>com.sun</groupId>
+                <artifactId>tools</artifactId>
+                <version>1.8</version>
+                <scope>system</scope>
+                <systemPath>/Library/Java/JavaVirtualMachines/jdk1.8.0_241.jdk/Contents/Home/lib/tools.jar
+                </systemPath>
+            </dependency>
 
 
         <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
@@ -120,23 +127,23 @@
         </dependency>
 
         <!-- https://mvnrepository.com/artifact/com.vimalselvam/cucumber-extentsreport -->
-        <dependency>
-            <groupId>com.vimalselvam</groupId>
-            <artifactId>cucumber-extentsreport</artifactId>
-            <version>3.1.1</version>
-        </dependency>
+<!--        <dependency>-->
+<!--            <groupId>com.vimalselvam</groupId>-->
+<!--            <artifactId>cucumber-extentsreport</artifactId>-->
+<!--            <version>3.1.1</version>-->
+<!--        </dependency>-->
         <!-- https://mvnrepository.com/artifact/com.aventstack/extentreports -->
         <dependency>
             <groupId>com.aventstack</groupId>
             <artifactId>extentreports</artifactId>
-            <version>4.1.5</version>
+            <version>4.0.0</version>
         </dependency>
         <!-- https://mvnrepository.com/artifact/log4j/log4j -->
-        <dependency>
-            <groupId>log4j</groupId>
-            <artifactId>log4j</artifactId>
-            <version>1.2.17</version>
-        </dependency>
+<!--        <dependency>-->
+<!--            <groupId>log4j</groupId>-->
+<!--            <artifactId>log4j</artifactId>-->
+<!--            <version>1.2.17</version>-->
+<!--        </dependency>-->
 
         <!-- https://mvnrepository.com/artifact/org.testng/testng -->
         <dependency>
@@ -145,23 +152,35 @@
             <version>7.1.0</version>
             <scope>test</scope>
         </dependency>
-
-        <!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-testng -->
+        <!-- https://mvnrepository.com/artifact/info.cukes/cucumber-testng -->
         <dependency>
-            <groupId>io.cucumber</groupId>
+            <groupId>info.cukes</groupId>
             <artifactId>cucumber-testng</artifactId>
-            <version>6.0.0-RC2</version>
+            <version>1.2.5</version>
         </dependency>
-<!--        &lt;!&ndash; https://mvnrepository.com/artifact/info.cukes/cucumber-java8 &ndash;&gt;-->
+
+        <!--        &lt;!&ndash; https://mvnrepository.com/artifact/info.cukes/cucumber-java8 &ndash;&gt;-->
 <!--        <dependency>-->
 <!--            <groupId>info.cukes</groupId>-->
 <!--            <artifactId>cucumber-java8</artifactId>-->
 <!--            <version>1.2.5</version>-->
 <!--        </dependency>-->
+        <!-- https://mvnrepository.com/artifact/info.cukes/cucumber-java -->
+        <dependency>
+            <groupId>info.cukes</groupId>
+            <artifactId>cucumber-java</artifactId>
+            <version>1.2.5</version>
+        </dependency>
         <dependency>
             <groupId>io.cucumber</groupId>
             <artifactId>cucumber-java</artifactId>
             <version>5.7.0</version>
+            <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>io.cucumber</groupId>
+            <artifactId>cucumber-core</artifactId>
+            <version>4.4.0</version>
             <scope>test</scope>
         </dependency>
 

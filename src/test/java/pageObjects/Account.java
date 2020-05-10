@@ -17,7 +17,7 @@ public class Account {
         waitHelper = new WaitHelper(driver);
     }
 
-    @FindBy(how = How.LINK_TEXT, using = "New addAccount")@CacheLookup
+    @FindBy(how = How.LINK_TEXT, using = "New Account")@CacheLookup
     WebElement newAccountLink;
     @FindBy(how = How.NAME, using = "cusid")@CacheLookup WebElement customerIDTextBox;
     @FindBy(how = How.NAME, using = "selaccount")@CacheLookup WebElement accountTypeDropDown;

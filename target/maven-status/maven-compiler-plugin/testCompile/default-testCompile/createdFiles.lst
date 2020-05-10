@@ -1,8 +1,13 @@
 pageObjects/Deposit.class
 pageObjects/LoginPage.class
-stepsDefinitions/TestHelper.class
-utils/WaitHelper.class
+utils/Base.class
+utils/ExtentReportUtils.class
 pageObjects/Account.class
-testRunner/testRunner.class
 utils/CaptureScreenShot.class
 stepsDefinitions/steps.class
+stepsDefinitions/Hook.class
+testRunner/TestRunner.class
+testRunner/CustomListeners.class
+pageObjects/Withdrawal.class
+utils/BrowserFactory.class
+utils/WaitHelper.class

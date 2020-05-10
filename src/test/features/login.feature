@@ -10,13 +10,13 @@ Feature: Login test
     Then Get title of the current page "Guru99 Bank Manager HomePage"
     Then Close the application and browser
 
-  @skip
-  Scenario Outline: Data driven test
-    When After launching application enter username "<username>" and password "<password>"
-    And After that enter click on login button
-    Then Get title of the current page "Guru99 Bank Manager HomePage"
-    Then Close the application and browser
-    Examples:
-      | username | password |
-      | mngr259062 | UsuhagY |
-      | mngr25906 | UsuhagY |
+#  @execute
+#  Scenario Outline: Data driven test
+#    When After launching application enter username "<username>" and password "<password>"
+#    And After that enter click on login button
+#    Then Get title of the current page "Guru99 Bank Manager HomePage"
+#    Then Close the application and browser
+#    Examples:
+#      | username | password |
+#      | mngr259062 | UsuhagY |
+#      | mngr25906 | UsuhagY |
